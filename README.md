@@ -10,4 +10,6 @@ This is my progress in Mastering Embedded Systems Diploma.
 
 ### Lesson 2.1: Introduction:
 
+### Lesson 2.2: Version Control
 
+** Assignment 1**: Push your README.md file 
